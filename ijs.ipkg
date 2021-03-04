@@ -1,0 +1,7 @@
+package ijs
+
+sourcedir = "ijs"
+modules = Ijs,
+          Ijs.Array,
+          Ijs.Object,
+          Ijs.Types

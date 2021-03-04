@@ -1,0 +1,10 @@
+package ijs-dom
+
+sourcedir = "ijs-dom"
+modules = Ijs.DOM,
+          Ijs.DOM.Document,
+          Ijs.DOM.DOMRect,
+          Ijs.DOM.Element,
+          Ijs.DOM.EventTarget,
+          Ijs.DOM.Node,
+          Ijs.DOM.HTML,
